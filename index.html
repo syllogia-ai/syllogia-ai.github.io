@@ -12,6 +12,18 @@
 		<meta name="description" content="Where computational reasoning meets market intelligence. Advanced AI and ML systems for quantitative finance." />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+		/* Make 3-column grid for Team on desktop */
+		@media screen and (min-width: 981px) {
+			#team .features section { width: 33.3333%; }
+			/* First row (3 items) has no top border */
+			#team .features section:nth-child(-n + 3) { border-top-width: 0; }
+			/* Reset default 2-col left-border rule, then set for 3-col */
+			#team .features section:nth-child(2n) { border-left-width: 0; }
+			#team .features section:nth-child(3n + 2),
+			#team .features section:nth-child(3n + 3) { border-left: solid 1px rgba(255, 255, 255, 0.15); }
+		}
+		</style>
 	</head>
 	<body class="is-preload">
 
