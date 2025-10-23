@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" fill="none"/>
+<rect x="8" y="8" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="24" y="8" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="40" y="8" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="8" y="24" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="24" y="24" width="16" height="16" rx="2" fill="#8cc9f0"/>
+<rect x="40" y="24" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="8" y="40" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="24" y="40" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<rect x="40" y="40" width="16" height="16" rx="2" fill="#8cc9f0" opacity="0.3"/>
+<path d="M16 16L24 16" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+<path d="M40 16L48 16" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+<path d="M16 32L24 32" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+<path d="M40 32L48 32" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+<path d="M16 48L24 48" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+<path d="M40 48L48 48" stroke="#8cc9f0" stroke-width="2" stroke-linecap="round"/>
+</svg>
